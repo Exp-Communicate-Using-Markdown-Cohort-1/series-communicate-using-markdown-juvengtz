@@ -1,7 +1,7 @@
 # Header
 ### Added Text
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktoat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
@@ -11,6 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
